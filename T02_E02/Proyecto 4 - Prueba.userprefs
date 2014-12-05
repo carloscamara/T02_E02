@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Pulsar.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AbrirPuertaOscura.cs" Line="30" Column="2" />
+      <File FileName="Assets\Scripts\AccesoPuerta.cs" Line="15" Column="37" />
+      <File FileName="Assets\Scripts\CambiarAbajo.cs" Line="25" Column="2" />
+      <File FileName="Assets\Scripts\Coger.cs" Line="14" Column="3" />
+      <File FileName="Assets\Scripts\DesaparecerAbajo.cs" Line="17" Column="39" />
+      <File FileName="Assets\Scripts\Inventario.cs" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\PuertasAscensor.cs" Line="13" Column="3" />
+      <File FileName="Assets\Scripts\Pulsar.cs" Line="31" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
